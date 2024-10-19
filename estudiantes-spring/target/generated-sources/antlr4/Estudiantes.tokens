@@ -1,0 +1,11 @@
+ADD=1
+ESTUDIANTE=2
+CALIFICACION=3
+PARCIAL=4
+NUMERO=5
+NOMBRE=6
+WS=7
+'agregar'=1
+'estudiante'=2
+'calificacion'=3
+'parcial'=4
