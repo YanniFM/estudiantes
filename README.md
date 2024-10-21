@@ -107,15 +107,5 @@ Integración con Docker: Crear un contenedor Docker para ejecutar fácilmente el
 Licencia
 
 
-### Cómo agregar el `README.md` a tu repositorio:
-
-1. Asegúrate de que el archivo `README.md` esté en el directorio del proyecto.
-2. Luego, sigue estos pasos en Git Bash para agregarlo al repositorio:
-
-   ```bash
-   git add README.md
-   git commit -m "Añadir README.md con la documentación del proyecto"
-   git push origin main
-
 
 
